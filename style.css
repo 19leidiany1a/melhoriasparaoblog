@@ -27,13 +27,15 @@ article{
     margin: 16px;
     gap: 16px;
     padding: 16px;
-       }
+
+    flex: 1 1 25%;
+}
 
 img{
     width: 80px;
     height: 80px;
-    }
+}
 .artigo-autor {
     font-weight: bold;
-            }
+}
             

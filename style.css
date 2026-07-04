@@ -19,8 +19,12 @@ main {
     }
 article{
     display: flex;
-    
+
     border: 1px solid #0a1ed1;
+
+    margin: 16px;
+    gap: 16px;
+    padding: 16px;
        }
 
 img{

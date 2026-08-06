@@ -6,6 +6,16 @@
     --cor-contraste:#eadcf8;
     --cor-botao:#eae3f0;
 }
+
+.tema-escuro{
+    --cor-primaria:#bba6ce;
+    --cor-secundaria:#7f6497;
+    --cor-fundo:#000000;
+    --cor-texto:#1a0e25;
+    --cor-contraste:#eadcf8;
+    --cor-botao:#eae3f0;
+}
+
 body {
     max-width: 100vw;
 }

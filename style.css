@@ -11,15 +11,15 @@ body {
 }
 
 header{
-    background-color: #351B4D;
-    color: #FFFFFF;
+    background-color: var(--cor-primaria);
+    color: var(--cor-contraste);
     text-align: center;
     margin: 0 auto;
     padding: 16px;
     border: 5px solid #0a1ed1;}
 main {
-    background-color: #FFFFFF;
-    color: #351B4D;
+    background-color: var(--cor-fundo);
+    color: var(--cor-primaria);
     margin: 0 auto;
     padding: 16px;
 
@@ -30,7 +30,7 @@ main {
 article{
     display: flex;
 
-    border: 1px solid #0a1ed1;
+    border: 1px solid var(--cor-primaria);
 
     margin: 16px;
     gap: 16px;

@@ -17,7 +17,7 @@
 }
 
 .tema-escuro p{
-    
+    color: var(--cor-texto);
 }
 
 body {

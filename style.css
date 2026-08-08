@@ -33,7 +33,7 @@ body {
 
 header{
     background-color: var(--cor-primaria);
-    color: var(--cor-contraste);
+    color: var(--cor-destaque);
     text-align: center;
     margin: 0 auto;
     padding: 16px;

@@ -23,7 +23,7 @@
 }
 
 .tema-escuro header p{
-    color: var(--cor-texto);
+    color: var(--cor-destaque);
 }
 
 body {

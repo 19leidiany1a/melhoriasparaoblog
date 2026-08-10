@@ -72,4 +72,7 @@ img{
 .artigo-autor {
     font-weight: bold;
 }
-            
+
+.btn-tema-escuro {
+    position: fixed;
+}

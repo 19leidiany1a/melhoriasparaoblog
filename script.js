@@ -26,4 +26,4 @@ const btnTemaEscuro = document.querySelector(".btn-tema-escuro");
     } else {
         corpoPagina.classList.add("tema-escuro");
     }
-    }
+}

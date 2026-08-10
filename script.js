@@ -23,5 +23,8 @@ const btnTemaEscuro = document.querySelector(".btn-tema-escuro");
     const corpoPagina = document.body;
     if (corpoPagina.classList.contains("tema-escuro")){
         corpoPagina.classList.remove("tema-escuro");
+    } else {
+
+    }
     }
  }

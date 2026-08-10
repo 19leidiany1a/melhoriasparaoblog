@@ -12,7 +12,6 @@ botoes.forEach( function(botao){
         } else{
             text.textContent--;
             curtiu = false;
-               
         }
     }
 });

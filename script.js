@@ -15,3 +15,4 @@ botoes.forEach( function(botao){
     }
 });
 
+const btnTemaEscuro = document.querySelector(".btn-tema-escuro");

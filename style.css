@@ -32,7 +32,7 @@ body {
 }
 
 header{
-    background-color: var(--cor-primaria);
+    background-color: var(--cor-secundaria);
     color: var(--cor-destaque);
     text-align: center;
     margin: 0 auto;

@@ -22,7 +22,7 @@
     color: var(--cor-texto);
 }
 
-.tema-escuro header p{
+.tema-escuro .artigo-autor {
     color: var(--cor-destaque);
 }
 

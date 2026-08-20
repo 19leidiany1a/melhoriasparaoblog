@@ -20,6 +20,7 @@
 
 .tema-escuro p {
     color: var(--cor-contraste);
+    font-weight: 600;
 }
 
 .tema-escuro a {

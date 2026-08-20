@@ -23,7 +23,7 @@
 }
 
 .tema-escuro .artigo-autor {
-    color: var(--cor-destaque);
+    color: var(--cor-secundaria);
 }
 
 .tema-escuro .btn-tema-escuro {

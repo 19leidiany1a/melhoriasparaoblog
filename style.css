@@ -82,7 +82,7 @@ main {
 article{
     display: flex;
 
-    border: 1px solid var(--cor-primaria);
+    border: 1px solid var(--cor-destaque);
 
     margin: 16px;
     gap: 16px;

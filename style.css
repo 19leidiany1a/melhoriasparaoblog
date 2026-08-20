@@ -19,7 +19,7 @@
 }
 
 .tema-escuro h2 {
-    color: var(--cor-texto);
+    color: var(--cor-primaria);
 }
 
 .tema-escuro .artigo-autor {

@@ -20,6 +20,7 @@
 
 .tema-escuro button {
     border: none;
+    background-color: var(--cor-botao);
 }
 
 .tema-escuro article {

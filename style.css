@@ -21,6 +21,7 @@
 .tema-escuro button {
     border: none;
     background-color: var(--cor-botao);
+    color: var(--cor-texto);
 }
 
 .tema-escuro article {

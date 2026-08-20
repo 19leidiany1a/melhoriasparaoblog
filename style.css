@@ -18,6 +18,10 @@
     --cor-botao:#0515f7;
 }
 
+.tema-escuro p {
+    color: var(--cor-contraste);
+}
+
 .tema-escuro a {
     color: var(--cor-secundaria);
 }

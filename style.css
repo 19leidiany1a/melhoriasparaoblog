@@ -18,7 +18,7 @@
     --cor-botao:#0515f7;
 }
 
-.tema-escuro p {
+.tema-escuro header p {
     color: var(--cor-contraste);
     font-weight: 600;
 }

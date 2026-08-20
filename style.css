@@ -18,6 +18,10 @@
     --cor-botao:#0515f7;
 }
 
+.tema-escuro button {
+    border: none;
+}
+
 .tema-escuro article {
     background-color: #3c0074;
 }

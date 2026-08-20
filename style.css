@@ -18,7 +18,7 @@
     --cor-botao:#0515f7;
 }
 
-.tema-escuro p{
+.tema-escuro h2 {
     color: var(--cor-texto);
 }
 
